@@ -72,11 +72,11 @@
 
 **Библиотеки:** pandas, seaborn, sklearn, statsmodels, lightgbm, catboost
 
-<code>[***13. Обучение модели классификации комментариев (МО для текстов)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***13. Обучение модели классификации комментариев (МО для текстов)***](https://github.com/Reijii-sar/yandexdc/blob/main/toxic.ipynb)</code>  
 
 Определение токсичности комментарии.
 
-**Библиотеки:** 
+**Библиотеки:** pandas, sklearn, nltk, catboost, lightgbm, re
 
 <code>[***14. Обработка фотографий покупателя (Компьютерное зрение)***](https://github.com/Reijii-sar/yandexdc/blob/main/faces.ipynb)</code>  
 
