@@ -66,11 +66,11 @@
 
 **Библиотеки:** pandas, numpy, seaborn, matplotlib, sklearn, pipeline, catboost, lightgbm, xgboost
 
-<code>[***12. Прогнозирование количества заказов такси на следующий час (Временные ряды)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***12. Прогнозирование количества заказов такси на следующий час (Временные ряды)***](https://github.com/Reijii-sar/yandexdc/blob/main/taxi.ipynb)</code>  
 
 Разработка системы предсказания объема заказа.
 
-**Библиотеки:** 
+**Библиотеки:** pandas, seaborn, sklearn, statsmodels, lightgbm, catboost
 
 <code>[***13. Обучение модели классификации комментариев (МО для текстов)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
 
