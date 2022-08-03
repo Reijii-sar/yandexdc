@@ -60,11 +60,11 @@
 
 **Библиотеки:** 
 
-<code>[***11. Построение модели определения стоимости автомобиля (Численные методы)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***11. Построение модели определения стоимости автомобиля (Численные методы)***](https://github.com/Reijii-sar/yandexdc/blob/main/cost_auto.ipynb)</code>  
 
 Разработка системы рекомендации стоимости автомобиля на основе его описания
 
-**Библиотеки:** 
+**Библиотеки:** pandas, numpy, seaborn, matplotlib, sklearn, pipeline, catboost, lightgbm, xgboost
 
 <code>[***12. Прогнозирование количества заказов такси на следующий час (Временные ряды)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
 
