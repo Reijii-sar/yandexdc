@@ -84,8 +84,8 @@
 
 **Библиотеки:** pandas, seaborn, numpy, tensorflow.keras
 
-<code>[***15. Финальный проект***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***15. Финальный проект***](https://github.com/Reijii-sar/yandexdc/blob/main/final.ipynb)</code>  
 
 Определить избыточность признаков и построить модель, которая предскажет температуру стали
 
-**Библиотеки:** 
+**Библиотеки:** pandas, numpy, seaborn, matplotlib, sklearn, lightgbm
