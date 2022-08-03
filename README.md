@@ -54,11 +54,11 @@
 
 **Библиотеки:** pandas, warnings, sklearn, seaborn, matplotlib, numpy  
 
-<code>[***10. Защита данных клиентов страховой компании (Линейная алгебра)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***10. Защита данных клиентов страховой компании (Линейная алгебра)***](https://github.com/Reijii-sar/yandexdc/blob/main/safe.ipynb)</code>  
 
 Разработка модели анонимизации персональных данных
 
-**Библиотеки:** 
+**Библиотеки:** pandas, sklearn, seaborn, matplotlib, numpy
 
 <code>[***11. Построение модели определения стоимости автомобиля (Численные методы)***](https://github.com/Reijii-sar/yandexdc/blob/main/cost_auto.ipynb)</code>  
 
