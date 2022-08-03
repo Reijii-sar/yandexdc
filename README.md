@@ -78,14 +78,14 @@
 
 **Библиотеки:** 
 
-<code>[***14. Обработка фотографий покупателя (Компьютерное зрение)***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
+<code>[***14. Обработка фотографий покупателя (Компьютерное зрение)***](https://github.com/Reijii-sar/yandexdc/blob/main/faces.ipynb)</code>  
 
 Определение возраста по фотографии
 
-**Библиотеки:** 
+**Библиотеки:** pandas, seaborn, numpy, tensorflow.keras
 
 <code>[***15. Финальный проект***](https://github.com/Reijii-sar/yandexdc/blob/main/10.ipynb)</code>  
 
 Определить избыточность признаков и построить модель, которая предскажет температуру стали
 
-**Библиотеки:**
+**Библиотеки:** 
